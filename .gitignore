@@ -1,0 +1,6 @@
+_pycache_
+build
+dist
+log.txt
+MqttConfig.txt
+MQTTECI.spec
